@@ -15,8 +15,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GLaMR Upptime
-  introTitle: "See the status of various sites in the GLaMR ecosystem"
-  introMessage: idk what else to say
+  introTitle: GLaMR Status
+  introMessage: See the status of various sites in the GLaMR ecosystem
   navbar:
     - title: Status
       href: /
