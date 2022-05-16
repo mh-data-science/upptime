@@ -23,7 +23,7 @@ status-website:
   introMessage: See the status of various sites in the GLaMR ecosystem
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
