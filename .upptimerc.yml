@@ -11,7 +11,21 @@ sites:
     url: https://barracuda-uat.mhtr.be/v3/docs
   - name: UAT Barracuda v2
     url: https://barracuda-uat.mhtr.be/v2/docs
-    
+  - name: Traffic Dashboard Mediahuis België
+    url: https://traffic.mediahuis.be/api/system/status
+  - name: Traffic Dashboard Mediahuis Nederland
+    url: https://traffic-tmg.mediahuis.nl/api/system/status
+  - name: Traffic Dashboard Mediahuis Ierland
+    url: https://traffic-inm.mediahuis.ie/api/system/status
+  - name: Traffic Dashboard Mediahuis Limburg
+    url: https://traffic-lim.mediahuis.nl
+  - name: Traffic Dashboard NRC
+    url: https://traffic.mediahuis.nl
+  - name: "Traffic Dashboard L'Avenir"
+    url: https://traffic-ave.mediahuis.be
+  - name: Traffic Dashboard Zimmo
+    url: https://traffic-zimmo.mediahuis.be
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
