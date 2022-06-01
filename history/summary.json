@@ -76,19 +76,19 @@
     "url": "https://traffic.mediahuis.be/api/system/status",
     "icon": "https://favicons.githubusercontent.com/traffic.mediahuis.be",
     "slug": "traffic-dashboard-mediahuis-belgie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 448,
-    "timeWeek": 614,
-    "timeMonth": 641,
-    "timeYear": 641,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 625,
+    "timeDay": 423,
+    "timeWeek": 588,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2022-06-01": 0
+      "2022-06-01": 78
     }
   },
   {
