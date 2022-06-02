@@ -154,19 +154,19 @@
     "url": "https://traffic.mediahuis.nl",
     "icon": "https://favicons.githubusercontent.com/traffic.mediahuis.nl",
     "slug": "traffic-dashboard-nrc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1022,
-    "timeDay": 983,
-    "timeWeek": 885,
+    "timeDay": 1008,
+    "timeWeek": 903,
     "timeMonth": 1022,
     "timeYear": 1022,
     "dailyMinutesDown": {
-      "2022-06-02": 0
+      "2022-06-02": 16
     }
   },
   {
