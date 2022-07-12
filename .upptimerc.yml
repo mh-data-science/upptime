@@ -21,8 +21,6 @@ sites:
     url: https://traffic-lim.mediahuis.nl
   - name: Traffic Dashboard NRC
     url: https://traffic.mediahuis.nl
-  - name: "Traffic Dashboard L'Avenir"
-    url: https://traffic-ave.mediahuis.be
   - name: Traffic Dashboard Zimmo
     url: https://traffic-zimmo.mediahuis.be
 
