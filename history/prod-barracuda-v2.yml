@@ -1,7 +1,7 @@
 url: https://barracuda.mhtr.be/v2/docs
-status: down
-code: 503
-responseTime: 326
-lastUpdated: 2022-10-18T18:58:48.412Z
+status: up
+code: 200
+responseTime: 187
+lastUpdated: 2022-10-18T19:20:36.312Z
 startTime: Mon May 16 2022 11:46:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
