@@ -5,12 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Prod Barracuda v3
     url: https://barracuda.mhtr.be/v3/docs
-  - name: Prod Barracuda v2
-    url: https://barracuda.mhtr.be/v2/docs
   - name: UAT Barracuda v3
     url: https://barracuda-uat.mhtr.be/v3/docs
-  - name: UAT Barracuda v2
-    url: https://barracuda-uat.mhtr.be/v2/docs
   - name: Traffic Dashboard Mediahuis België
     url: https://traffic.mediahuis.be/api/system/status
   - name: Traffic Dashboard Mediahuis Nederland
