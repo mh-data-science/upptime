@@ -23,31 +23,6 @@
     }
   },
   {
-    "name": "Prod Barracuda v2",
-    "url": "https://barracuda.mhtr.be/v2/docs",
-    "icon": "https://icons.duckduckgo.com/ip3/barracuda.mhtr.be.ico",
-    "slug": "prod-barracuda-v2",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 234,
-    "timeDay": 166,
-    "timeWeek": 140,
-    "timeMonth": 144,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2022-10-19": 111,
-      "2022-10-18": 78,
-      "2022-06-30": 43,
-      "2022-06-29": 40,
-      "2022-06-17": 121,
-      "2022-06-16": 22
-    }
-  },
-  {
     "name": "UAT Barracuda v3",
     "url": "https://barracuda-uat.mhtr.be/v3/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-uat.mhtr.be.ico",
@@ -71,39 +46,15 @@
     }
   },
   {
-    "name": "UAT Barracuda v2",
-    "url": "https://barracuda-uat.mhtr.be/v2/docs",
-    "icon": "https://icons.duckduckgo.com/ip3/barracuda-uat.mhtr.be.ico",
-    "slug": "uat-barracuda-v2",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 211,
-    "timeDay": 172,
-    "timeWeek": 144,
-    "timeMonth": 143,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2022-10-24": 36,
-      "2022-06-30": 43,
-      "2022-06-29": 40,
-      "2022-06-17": 121,
-      "2022-06-16": 22
-    }
-  },
-  {
     "name": "Traffic Dashboard Mediahuis België",
     "url": "https://traffic.mediahuis.be/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.be.ico",
     "slug": "traffic-dashboard-mediahuis-belgie",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "96.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.40%",
     "uptimeYear": "97.79%",
     "time": 721,
     "timeDay": 1775,
@@ -111,7 +62,6 @@
     "timeMonth": 838,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-01-24": 11,
       "2023-01-20": 22,
       "2023-01-17": 96,
       "2023-01-10": 38,
