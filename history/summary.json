@@ -52,12 +52,12 @@
     "slug": "traffic-dashboard-mediahuis-belgie",
     "status": "up",
     "uptime": "97.96%",
-    "uptimeDay": "94.51%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "97.96%",
     "time": 777,
-    "timeDay": 798,
+    "timeDay": 996,
     "timeWeek": 1473,
     "timeMonth": 1016,
     "timeYear": 777,
@@ -134,9 +134,9 @@
     "slug": "traffic-dashboard-mediahuis-nederland",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "97.88%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "99.43%",
     "time": 1413,
     "timeDay": 1819,
@@ -144,7 +144,7 @@
     "timeMonth": 1640,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2023-02-27": 40,
+      "2023-02-27": 32,
       "2023-02-26": 18,
       "2023-02-24": 18,
       "2023-02-22": 16,
@@ -203,7 +203,7 @@
       "2022-12-15": 58,
       "2022-12-14": 22,
       "2022-12-13": 36,
-      "2022-12-12": 4
+      "2022-12-12": 20
     }
   },
   {
