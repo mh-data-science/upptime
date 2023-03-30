@@ -52,9 +52,9 @@
     "slug": "traffic-dashboard-mediahuis-belgie",
     "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "98.12%",
     "time": 795,
     "timeDay": 446,
@@ -62,7 +62,6 @@
     "timeMonth": 955,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2023-03-30": 12,
       "2023-03-22": 71,
       "2023-03-07": 18,
       "2023-03-06": 79,
@@ -137,16 +136,16 @@
     "url": "https://traffic-tmg.mediahuis.nl/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/traffic-tmg.mediahuis.nl.ico",
     "slug": "traffic-dashboard-mediahuis-nederland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "89.84%",
+    "uptimeDay": "89.82%",
     "uptimeWeek": "94.25%",
     "uptimeMonth": "95.38%",
     "uptimeYear": "99.44%",
     "time": 1469,
-    "timeDay": 1408,
-    "timeWeek": 1605,
-    "timeMonth": 1607,
+    "timeDay": 1469,
+    "timeWeek": 1615,
+    "timeMonth": 1610,
     "timeYear": 1469,
     "dailyMinutesDown": {
       "2023-03-30": 146,
@@ -185,7 +184,7 @@
       "2023-02-18": 41,
       "2023-02-17": 54,
       "2023-02-16": 55,
-      "2023-02-15": 54
+      "2023-02-15": 24
     }
   },
   {
