@@ -136,15 +136,15 @@
     "url": "https://traffic-tmg.mediahuis.nl/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/traffic-tmg.mediahuis.nl.ico",
     "slug": "traffic-dashboard-mediahuis-nederland",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "76.74%",
-    "uptimeWeek": "70.62%",
-    "uptimeMonth": "93.24%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "77.54%",
+    "uptimeWeek": "70.79%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "99.37%",
     "time": 1856,
     "timeDay": 5385,
-    "timeWeek": 4930,
+    "timeWeek": 4925,
     "timeMonth": 2881,
     "timeYear": 1856,
     "dailyMinutesDown": {
@@ -155,7 +155,7 @@
       "2023-04-01": 634,
       "2023-03-31": 410,
       "2023-03-30": 163,
-      "2023-03-29": 117
+      "2023-03-29": 100
     }
   },
   {
