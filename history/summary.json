@@ -103,17 +103,16 @@
     "slug": "traffic-dashboard-mediahuis-nederland",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.13%",
     "time": 2043,
     "timeDay": 2016,
     "timeWeek": 2353,
     "timeMonth": 1199,
     "timeYear": 2092,
     "dailyMinutesDown": {
-      "2023-10-14": 6,
       "2023-10-01": 54,
       "2023-09-30": 2,
       "2023-09-27": 77,
@@ -131,7 +130,7 @@
       "2023-04-03": 574,
       "2023-04-02": 526,
       "2023-04-01": 634,
-      "2023-03-31": 318
+      "2023-03-31": 349
     }
   },
   {
