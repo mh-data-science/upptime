@@ -22,7 +22,7 @@
     "url": "https://barracuda-uat.mhtr.be/v3/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-uat.mhtr.be.ico",
     "slug": "uat-barracuda-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "93.80%",
     "uptimeWeek": "97.64%",
