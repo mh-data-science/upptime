@@ -1,7 +1,7 @@
 url: https://barracuda-uat.mhtr.be/v3/docs
-status: up
-code: 200
-responseTime: 448
-lastUpdated: 2023-11-04T02:47:32.836Z
+status: down
+code: 503
+responseTime: 248
+lastUpdated: 2023-11-04T02:53:02.517Z
 startTime: 2022-05-16T11:46:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
