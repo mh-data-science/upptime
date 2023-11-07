@@ -22,14 +22,14 @@
     "url": "https://barracuda-uat.mhtr.be/v3/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-uat.mhtr.be.ico",
     "slug": "uat-barracuda-v3",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "66.90%",
-    "uptimeWeek": "73.80%",
-    "uptimeMonth": "93.97%",
-    "uptimeYear": "99.50%",
-    "time": 305,
-    "timeDay": 326,
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "67.71%",
+    "uptimeWeek": "74.26%",
+    "uptimeMonth": "94.08%",
+    "uptimeYear": "99.51%",
+    "time": 304,
+    "timeDay": 327,
     "timeWeek": 316,
     "timeMonth": 306,
     "timeYear": 301,
@@ -40,7 +40,7 @@
       "2023-11-04": 374,
       "2023-11-03": 345,
       "2023-11-02": 320,
-      "2023-11-01": 295
+      "2023-11-01": 248
     }
   },
   {
