@@ -1,7 +1,7 @@
 url: https://traffic-tmg.mediahuis.nl/api/system/status
-status: down
-code: 503
-responseTime: 439
-lastUpdated: 2023-11-09T21:55:46.070Z
+status: up
+code: 200
+responseTime: 6060
+lastUpdated: 2023-11-09T22:06:06.976Z
 startTime: 2022-05-17T06:55:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
