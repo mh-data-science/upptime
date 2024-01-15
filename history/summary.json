@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 256,
-    "timeWeek": 259,
-    "timeMonth": 460,
+    "timeDay": 367,
+    "timeWeek": 276,
+    "timeMonth": 453,
     "timeYear": 378,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 305,
-    "timeDay": 402,
-    "timeWeek": 293,
-    "timeMonth": 279,
+    "timeDay": 151,
+    "timeWeek": 280,
+    "timeMonth": 276,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2023-11-08": 218,
@@ -56,9 +56,9 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.20%",
     "time": 1682,
-    "timeDay": 921,
-    "timeWeek": 1564,
-    "timeMonth": 1214,
+    "timeDay": 909,
+    "timeWeek": 1203,
+    "timeMonth": 1215,
     "timeYear": 1801,
     "dailyMinutesDown": {
       "2024-01-08": 62,
@@ -103,17 +103,16 @@
     "slug": "traffic-dashboard-mediahuis-nederland",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.12%",
-    "time": 2329,
-    "timeDay": 531,
-    "timeWeek": 997,
-    "timeMonth": 2466,
+    "time": 2328,
+    "timeDay": 547,
+    "timeWeek": 492,
+    "timeMonth": 2467,
     "timeYear": 2383,
     "dailyMinutesDown": {
-      "2024-01-14": 6,
       "2024-01-08": 31,
       "2023-12-18": 65,
       "2023-11-08": 61,
@@ -135,7 +134,7 @@
       "2023-04-03": 574,
       "2023-04-02": 526,
       "2023-04-01": 634,
-      "2023-03-31": 172
+      "2023-03-31": 194
     }
   },
   {
@@ -150,10 +149,10 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.82%",
     "time": 2676,
-    "timeDay": 5437,
-    "timeWeek": 4101,
-    "timeMonth": 1919,
-    "timeYear": 2878,
+    "timeDay": 5262,
+    "timeWeek": 4098,
+    "timeMonth": 1709,
+    "timeYear": 2881,
     "dailyMinutesDown": {
       "2024-01-08": 36,
       "2024-01-03": 64,
@@ -186,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1224,
-    "timeDay": 1249,
-    "timeWeek": 1212,
-    "timeMonth": 1283,
-    "timeYear": 1251,
+    "time": 1221,
+    "timeDay": 774,
+    "timeWeek": 1166,
+    "timeMonth": 1277,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2023-09-27": 30
     }
@@ -207,15 +206,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 1122,
-    "timeDay": 1233,
-    "timeWeek": 1109,
-    "timeMonth": 1183,
+    "timeDay": 837,
+    "timeWeek": 1092,
+    "timeMonth": 1172,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-09-27": 30,
       "2023-01-31": 994,
-      "2023-01-30": 827,
-      "2023-01-15": 18
+      "2023-01-30": 827
     }
   },
   {
@@ -229,11 +227,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1159,
-    "timeDay": 1358,
-    "timeWeek": 1155,
-    "timeMonth": 1336,
-    "timeYear": 1194,
+    "time": 1158,
+    "timeDay": 924,
+    "timeWeek": 1164,
+    "timeMonth": 1316,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2023-02-01": 32,
       "2023-01-31": 23
