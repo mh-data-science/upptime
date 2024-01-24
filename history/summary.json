@@ -59,7 +59,7 @@
     "timeDay": 1068,
     "timeWeek": 1581,
     "timeMonth": 1356,
-    "timeYear": 1821,
+    "timeYear": 1824,
     "dailyMinutesDown": {
       "2024-01-08": 62,
       "2024-01-03": 64,
@@ -109,7 +109,7 @@
     "timeDay": 6213,
     "timeWeek": 2009,
     "timeMonth": 2215,
-    "timeYear": 2404,
+    "timeYear": 2406,
     "dailyMinutesDown": {
       "2024-01-19": 15,
       "2024-01-08": 31,
@@ -141,18 +141,19 @@
     "url": "https://traffic-inm.mediahuis.ie/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/traffic-inm.mediahuis.ie.ico",
     "slug": "traffic-dashboard-mediahuis-ierland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.82%",
-    "time": 2709,
-    "timeDay": 588,
-    "timeWeek": 2523,
-    "timeMonth": 2011,
-    "timeYear": 2916,
+    "time": 2706,
+    "timeDay": 623,
+    "timeWeek": 2336,
+    "timeMonth": 2038,
+    "timeYear": 2923,
     "dailyMinutesDown": {
+      "2024-01-24": 1,
       "2024-01-08": 36,
       "2024-01-03": 64,
       "2023-12-18": 65,
@@ -188,7 +189,7 @@
     "timeDay": 1216,
     "timeWeek": 1036,
     "timeMonth": 1141,
-    "timeYear": 1250,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2023-09-27": 30
     }
@@ -208,7 +209,7 @@
     "timeDay": 1143,
     "timeWeek": 948,
     "timeMonth": 1068,
-    "timeYear": 1153,
+    "timeYear": 1154,
     "dailyMinutesDown": {
       "2023-09-27": 30,
       "2023-01-31": 994,
@@ -230,7 +231,7 @@
     "timeDay": 1297,
     "timeWeek": 1272,
     "timeMonth": 1212,
-    "timeYear": 1197,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-02-01": 32,
       "2023-01-31": 23
