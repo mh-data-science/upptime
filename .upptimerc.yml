@@ -3,10 +3,16 @@ owner: mh-data-science # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Prod Barracuda v3
-    url: https://barracuda.mhtr.be/v3/docs
-  - name: UAT Barracuda v3
-    url: https://barracuda-uat.mhtr.be/v3/docs
+  - name: Prod Barracuda v4 NB
+    url: https://barracuda-origin.mediahuisgroup.com/v4/nb/docs
+  - name: Prod Barracuda v4 TEL
+    url: https://barracuda-origin.mediahuisgroup.com/v4/tel/docs
+  - name: Prod Barracuda v4 INDO
+    url: https://barracuda-origin.mediahuisgroup.com/v4/indo/docs
+  - name: Prod Barracuda v4 VL
+    url: https://barracuda-origin.mediahuisgroup.com/v4/vl/docs
+  - name: Prod Barracuda v4 AZ
+    url: https://barracuda-origin.mediahuisgroup.com/v4/az/docs
   - name: Traffic Dashboard Mediahuis België
     url: https://traffic.mediahuis.be/api/system/status
   - name: Traffic Dashboard Mediahuis Nederland
