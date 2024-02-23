@@ -19,6 +19,10 @@ sites:
     url: https://traffic.mediahuis.nl
   - name: Traffic Dashboard Zimmo
     url: https://traffic-zimmo.mediahuis.be
+  - name: Traffic Dashboard Mediahuis Luxemburg
+    url: https://traffic.mediahuis.lu/
+  - name: Traffic Dashboard Mediahuis Germany
+    url: https://traffic.mediahuis.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
