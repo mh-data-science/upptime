@@ -76,18 +76,20 @@
     "url": "https://barracuda-origin.mediahuisgroup.com/v4/az/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-az",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 274,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 188,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Traffic Dashboard Mediahuis België",
@@ -152,7 +154,7 @@
     "timeDay": 333,
     "timeWeek": 3517,
     "timeMonth": 2189,
-    "timeYear": 2631,
+    "timeYear": 2625,
     "dailyMinutesDown": {
       "2024-02-27": 15,
       "2024-02-26": 16,
