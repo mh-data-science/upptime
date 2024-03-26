@@ -1,7 +1,7 @@
 url: https://traffic.mediahuis.be/api/system/status
-status: up
-code: 200
-responseTime: 6430
-lastUpdated: 2024-03-25T23:16:27.418Z
+status: down
+code: 503
+responseTime: 418
+lastUpdated: 2024-03-26T07:34:39.914Z
 startTime: 2022-05-17T06:55:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
