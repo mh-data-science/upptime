@@ -4,19 +4,19 @@
     "url": "https://barracuda-origin.mediahuisgroup.com/v4/nb/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-nb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 399,
-    "timeWeek": 423,
-    "timeMonth": 901,
-    "timeYear": 819,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 813,
+    "timeDay": 458,
+    "timeWeek": 440,
+    "timeMonth": 891,
+    "timeYear": 813,
     "dailyMinutesDown": {
-      "2024-03-29": 0
+      "2024-03-29": 13
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeDay": 427,
     "timeWeek": 1882,
     "timeMonth": 2080,
-    "timeYear": 3055,
+    "timeYear": 3058,
     "dailyMinutesDown": {
       "2024-03-26": 15,
       "2024-03-20": 60,
