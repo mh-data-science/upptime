@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-nb",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 813,
     "timeDay": 458,
     "timeWeek": 440,
     "timeMonth": 891,
     "timeYear": 813,
-    "dailyMinutesDown": {
-      "2024-03-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Barracuda v4 TEL",
@@ -87,7 +85,7 @@
     "time": 141,
     "timeDay": 121,
     "timeWeek": 132,
-    "timeMonth": 127,
+    "timeMonth": 129,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -96,17 +94,17 @@
     "url": "https://traffic.mediahuis.be/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.be.ico",
     "slug": "traffic-dashboard-mediahuis-belgie",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "86.99%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "92.84%",
     "uptimeMonth": "96.47%",
     "uptimeYear": "99.00%",
     "time": 1782,
-    "timeDay": 446,
-    "timeWeek": 1767,
-    "timeMonth": 1710,
-    "timeYear": 1901,
+    "timeDay": 468,
+    "timeWeek": 1800,
+    "timeMonth": 1701,
+    "timeYear": 1900,
     "dailyMinutesDown": {
       "2024-03-29": 20,
       "2024-03-27": 377,
@@ -162,7 +160,7 @@
     "timeDay": 427,
     "timeWeek": 1882,
     "timeMonth": 2080,
-    "timeYear": 3058,
+    "timeYear": 3071,
     "dailyMinutesDown": {
       "2024-03-26": 15,
       "2024-03-20": 60,
@@ -254,7 +252,7 @@
     "timeDay": 881,
     "timeWeek": 984,
     "timeMonth": 1092,
-    "timeYear": 1184,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2023-09-27": 30
     }
