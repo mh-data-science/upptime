@@ -4,18 +4,20 @@
     "url": "https://barracuda-origin.mediahuisgroup.com/v4/nb/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-nb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 426,
-    "timeWeek": 430,
-    "timeMonth": 918,
-    "timeYear": 831,
-    "dailyMinutesDown": {}
+    "time": 819,
+    "timeDay": 399,
+    "timeWeek": 423,
+    "timeMonth": 901,
+    "timeYear": 819,
+    "dailyMinutesDown": {
+      "2024-03-29": 0
+    }
   },
   {
     "name": "Prod Barracuda v4 TEL",
@@ -160,7 +162,7 @@
     "timeDay": 427,
     "timeWeek": 1882,
     "timeMonth": 2080,
-    "timeYear": 3066,
+    "timeYear": 3055,
     "dailyMinutesDown": {
       "2024-03-26": 15,
       "2024-03-20": 60,
