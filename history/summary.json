@@ -95,10 +95,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.be.ico",
     "slug": "traffic-dashboard-mediahuis-belgie",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "96.45%",
+    "uptime": "98.68%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "98.98%",
     "time": 1828,
     "timeDay": 3127,
@@ -106,7 +106,7 @@
     "timeMonth": 1636,
     "timeYear": 1913,
     "dailyMinutesDown": {
-      "2024-04-05": 25,
+      "2024-04-05": 21,
       "2024-04-04": 43,
       "2024-04-02": 17,
       "2024-03-30": 18,
@@ -145,8 +145,7 @@
       "2023-05-05": 386,
       "2023-05-04": 224,
       "2023-04-11": 68,
-      "2023-04-08": 447,
-      "2023-04-07": 218
+      "2023-04-08": 447
     }
   },
   {
