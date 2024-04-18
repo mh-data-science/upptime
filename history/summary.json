@@ -40,19 +40,19 @@
     "url": "https://barracuda-origin.mediahuisgroup.com/v4/indo/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-indo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 120,
-    "timeWeek": 130,
-    "timeMonth": 131,
+    "timeDay": 131,
+    "timeWeek": 134,
+    "timeMonth": 133,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-04-18": 0
+      "2024-04-18": 11
     }
   },
   {
