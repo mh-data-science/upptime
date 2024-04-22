@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 670,
     "timeDay": 399,
-    "timeWeek": 427,
+    "timeWeek": 413,
     "timeMonth": 435,
     "timeYear": 670,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 105,
-    "timeWeek": 130,
+    "timeWeek": 124,
     "timeMonth": 133,
     "timeYear": 151,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 105,
-    "timeWeek": 133,
+    "timeWeek": 129,
     "timeMonth": 133,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 109,
-    "timeWeek": 130,
+    "timeWeek": 125,
     "timeMonth": 133,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 138,
     "timeDay": 105,
-    "timeWeek": 134,
+    "timeWeek": 129,
     "timeMonth": 133,
     "timeYear": 138,
     "dailyMinutesDown": {}
@@ -96,17 +96,17 @@
     "slug": "traffic-dashboard-mediahuis-belgie",
     "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.80%",
-    "uptimeMonth": "95.70%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "95.18%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "99.02%",
     "time": 1841,
     "timeDay": 2578,
-    "timeWeek": 2766,
+    "timeWeek": 2806,
     "timeMonth": 1909,
     "timeYear": 1917,
     "dailyMinutesDown": {
-      "2024-04-22": 0,
+      "2024-04-22": 63,
       "2024-04-20": 17,
       "2024-04-19": 35,
       "2024-04-18": 20,
@@ -169,7 +169,7 @@
     "uptimeYear": "99.49%",
     "time": 2619,
     "timeDay": 356,
-    "timeWeek": 1336,
+    "timeWeek": 1390,
     "timeMonth": 1703,
     "timeYear": 2426,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
     "uptimeYear": "99.83%",
     "time": 2785,
     "timeDay": 404,
-    "timeWeek": 646,
+    "timeWeek": 647,
     "timeMonth": 1901,
     "timeYear": 2837,
     "dailyMinutesDown": {
@@ -257,7 +257,7 @@
     "uptimeYear": "99.99%",
     "time": 1204,
     "timeDay": 843,
-    "timeWeek": 985,
+    "timeWeek": 953,
     "timeMonth": 1024,
     "timeYear": 1172,
     "dailyMinutesDown": {
@@ -277,7 +277,7 @@
     "uptimeYear": "99.99%",
     "time": 1118,
     "timeDay": 870,
-    "timeWeek": 925,
+    "timeWeek": 894,
     "timeMonth": 939,
     "timeYear": 1108,
     "dailyMinutesDown": {
@@ -297,7 +297,7 @@
     "uptimeYear": "100.00%",
     "time": 1167,
     "timeDay": 773,
-    "timeWeek": 982,
+    "timeWeek": 896,
     "timeMonth": 1026,
     "timeYear": 1208,
     "dailyMinutesDown": {}
@@ -315,7 +315,7 @@
     "uptimeYear": "100.00%",
     "time": 2359,
     "timeDay": 797,
-    "timeWeek": 993,
+    "timeWeek": 954,
     "timeMonth": 2346,
     "timeYear": 2359,
     "dailyMinutesDown": {}
@@ -333,7 +333,7 @@
     "uptimeYear": "100.00%",
     "time": 1249,
     "timeDay": 817,
-    "timeWeek": 1015,
+    "timeWeek": 981,
     "timeMonth": 1166,
     "timeYear": 1249,
     "dailyMinutesDown": {}
