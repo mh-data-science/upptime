@@ -40,18 +40,20 @@
     "url": "https://barracuda-origin.mediahuisgroup.com/v4/indo/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-indo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 114,
-    "timeWeek": 128,
-    "timeMonth": 132,
-    "timeYear": 146,
-    "dailyMinutesDown": {}
+    "time": 145,
+    "timeDay": 107,
+    "timeWeek": 125,
+    "timeMonth": 131,
+    "timeYear": 145,
+    "dailyMinutesDown": {
+      "2024-04-25": 0
+    }
   },
   {
     "name": "Prod Barracuda v4 VL",
@@ -96,7 +98,7 @@
     "slug": "traffic-dashboard-mediahuis-belgie",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "59.64%",
+    "uptimeDay": "88.26%",
     "uptimeWeek": "85.78%",
     "uptimeMonth": "93.99%",
     "uptimeYear": "98.77%",
