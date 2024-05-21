@@ -40,18 +40,20 @@
     "url": "https://barracuda-origin.mediahuisgroup.com/v4/indo/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-indo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 169,
-    "timeWeek": 140,
-    "timeMonth": 130,
-    "timeYear": 142,
-    "dailyMinutesDown": {}
+    "time": 141,
+    "timeDay": 135,
+    "timeWeek": 135,
+    "timeMonth": 129,
+    "timeYear": 141,
+    "dailyMinutesDown": {
+      "2024-05-21": 0
+    }
   },
   {
     "name": "Prod Barracuda v4 VL",
