@@ -308,19 +308,19 @@
     "url": "https://traffic.mediahuis.lu/",
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.lu.ico",
     "slug": "traffic-dashboard-mediahuis-luxemburg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 2240,
-    "timeDay": 2900,
-    "timeWeek": 2046,
-    "timeMonth": 2082,
-    "timeYear": 2240,
+    "time": 2228,
+    "timeDay": 2720,
+    "timeWeek": 1987,
+    "timeMonth": 2056,
+    "timeYear": 2228,
     "dailyMinutesDown": {
-      "2024-05-29": 36
+      "2024-05-29": 40
     }
   },
   {
