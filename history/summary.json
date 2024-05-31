@@ -329,19 +329,19 @@
     "url": "https://traffic.mediahuis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.de.ico",
     "slug": "traffic-dashboard-mediahuis-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1297,
-    "timeDay": 3346,
-    "timeWeek": 1739,
-    "timeMonth": 1311,
-    "timeYear": 1297,
+    "time": 1289,
+    "timeDay": 2631,
+    "timeWeek": 1614,
+    "timeMonth": 1287,
+    "timeYear": 1289,
     "dailyMinutesDown": {
-      "2024-05-31": 6
+      "2024-05-31": 1
     }
   }
 ]
