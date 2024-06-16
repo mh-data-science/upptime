@@ -306,11 +306,11 @@
     "url": "https://traffic.mediahuis.lu/",
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.lu.ico",
     "slug": "traffic-dashboard-mediahuis-luxemburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.91%",
     "time": 1943,
     "timeDay": 1532,
@@ -318,7 +318,7 @@
     "timeMonth": 1708,
     "timeYear": 1943,
     "dailyMinutesDown": {
-      "2024-06-16": 96,
+      "2024-06-16": 88,
       "2024-05-30": 18,
       "2024-05-29": 35
     }
