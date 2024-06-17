@@ -308,17 +308,17 @@
     "slug": "traffic-dashboard-mediahuis-luxemburg",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.91%",
     "time": 1944,
-    "timeDay": 1740,
+    "timeDay": 1810,
     "timeWeek": 1511,
     "timeMonth": 1729,
     "timeYear": 1944,
     "dailyMinutesDown": {
-      "2024-06-16": 94,
+      "2024-06-16": 88,
       "2024-05-30": 18,
       "2024-05-29": 35
     }
