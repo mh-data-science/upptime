@@ -1,7 +1,7 @@
 url: https://traffic.mediahuis.lu/
-status: down
-code: 500
-responseTime: 688
-lastUpdated: 2024-06-21T06:52:57.241Z
+status: up
+code: 200
+responseTime: 985
+lastUpdated: 2024-06-21T06:58:12.764Z
 startTime: 2024-02-23T08:36:08.808Z
 generator: Upptime <https://github.com/upptime/upptime>
