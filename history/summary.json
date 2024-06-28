@@ -314,7 +314,7 @@
     "uptimeYear": "99.90%",
     "time": 1999,
     "timeDay": 11203,
-    "timeWeek": 1846,
+    "timeWeek": 1902,
     "timeMonth": 1885,
     "timeYear": 1999,
     "dailyMinutesDown": {
@@ -330,19 +330,19 @@
     "url": "https://traffic.mediahuis.de/",
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.de.ico",
     "slug": "traffic-dashboard-mediahuis-germany",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 1411,
-    "timeDay": 1365,
+    "timeDay": 1383,
     "timeWeek": 1526,
     "timeMonth": 1614,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2024-06-28": 21,
+      "2024-06-28": 17,
       "2024-06-25": 29
     }
   }
