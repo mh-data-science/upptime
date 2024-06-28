@@ -332,9 +332,9 @@
     "slug": "traffic-dashboard-mediahuis-germany",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1404,
     "timeDay": 859,
@@ -342,7 +342,6 @@
     "timeMonth": 1630,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2024-06-27": 6,
       "2024-06-25": 29
     }
   }
