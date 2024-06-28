@@ -94,18 +94,19 @@
     "url": "https://traffic.mediahuis.be/api/system/status",
     "icon": "https://icons.duckduckgo.com/ip3/traffic.mediahuis.be.ico",
     "slug": "traffic-dashboard-mediahuis-belgie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 1842,
+    "time": 1831,
     "timeDay": 1110,
     "timeWeek": 4194,
     "timeMonth": 2161,
     "timeYear": 1692,
     "dailyMinutesDown": {
+      "2024-06-28": 0,
       "2024-05-01": 22,
       "2024-04-29": 17,
       "2024-04-27": 51,
@@ -314,7 +315,7 @@
     "uptimeYear": "99.90%",
     "time": 1999,
     "timeDay": 11203,
-    "timeWeek": 1672,
+    "timeWeek": 1730,
     "timeMonth": 1885,
     "timeYear": 1999,
     "dailyMinutesDown": {
@@ -332,9 +333,9 @@
     "slug": "traffic-dashboard-mediahuis-germany",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1414,
     "timeDay": 1386,
@@ -342,7 +343,6 @@
     "timeMonth": 1624,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2024-06-28": 6,
       "2024-06-25": 29
     }
   }
