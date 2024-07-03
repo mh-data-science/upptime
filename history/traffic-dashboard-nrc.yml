@@ -1,7 +1,7 @@
 url: https://traffic.mediahuis.nl
-status: down
-code: 525
-responseTime: 3351
-lastUpdated: 2024-07-03T19:23:42.313Z
+status: up
+code: 200
+responseTime: 1141
+lastUpdated: 2024-07-03T19:29:24.771Z
 startTime: 2022-05-17T06:55:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
