@@ -291,19 +291,19 @@
     "url": "https://traffic-zimmo.mediahuis.be",
     "icon": "https://icons.duckduckgo.com/ip3/traffic-zimmo.mediahuis.be.ico",
     "slug": "traffic-dashboard-zimmo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1173,
-    "timeDay": 755,
-    "timeWeek": 1251,
-    "timeMonth": 1101,
+    "timeDay": 849,
+    "timeWeek": 1249,
+    "timeMonth": 1104,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2024-07-06": 20
+      "2024-07-06": 25
     }
   },
   {
