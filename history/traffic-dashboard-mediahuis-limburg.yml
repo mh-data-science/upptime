@@ -1,7 +1,7 @@
 url: https://traffic-lim.mediahuis.nl
-status: up
-code: 200
-responseTime: 965
-lastUpdated: 2024-07-09T23:18:54.727Z
+status: down
+code: 525
+responseTime: 341
+lastUpdated: 2024-07-10T03:59:06.739Z
 startTime: 2022-05-17T06:55:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
