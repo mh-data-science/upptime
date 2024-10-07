@@ -1,7 +1,7 @@
 url: https://traffic-inm.mediahuis.ie/api/system/status
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2024-10-06T23:17:07.311Z
+status: down
+code: 525
+responseTime: 7790
+lastUpdated: 2024-10-07T16:53:06.406Z
 startTime: 2022-05-17T06:55:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
