@@ -1,7 +1,7 @@
 url: https://traffic-zimmo.mediahuis.be
-status: down
-code: 500
-responseTime: 129
-lastUpdated: 2025-12-05T08:55:25.129Z
+status: up
+code: 200
+responseTime: 1074
+lastUpdated: 2025-12-05T09:32:52.918Z
 startTime: 2022-05-17T06:55:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
