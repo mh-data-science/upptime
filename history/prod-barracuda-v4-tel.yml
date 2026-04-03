@@ -1,7 +1,7 @@
 url: https://barracuda-origin.mediahuisgroup.com/v4/tel/docs
-status: up
-code: 200
-responseTime: 163
-lastUpdated: 2026-04-02T23:37:58.639Z
+status: down
+code: 503
+responseTime: 155
+lastUpdated: 2026-04-03T10:07:13.122Z
 startTime: 2024-02-23T08:38:34.847Z
 generator: Upptime <https://github.com/upptime/upptime>
