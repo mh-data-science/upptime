@@ -25,17 +25,17 @@
     "url": "https://barracuda-origin.mediahuisgroup.com/v4/tel/docs",
     "icon": "https://icons.duckduckgo.com/ip3/barracuda-origin.mediahuisgroup.com.ico",
     "slug": "prod-barracuda-v4-tel",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 271,
-    "timeDay": 286,
-    "timeWeek": 429,
-    "timeMonth": 294,
-    "timeYear": 307,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "82.54%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.79%",
+    "time": 272,
+    "timeDay": 360,
+    "timeWeek": 438,
+    "timeMonth": 301,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2025-06-16": 53,
       "2025-11-24": 72,
@@ -49,7 +49,7 @@
       "2026-04-14": 116,
       "2026-04-16": 68,
       "2026-04-23": 189,
-      "2026-05-27": 1
+      "2026-05-27": 251
     }
   },
   {
